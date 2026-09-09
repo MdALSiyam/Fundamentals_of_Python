@@ -15,12 +15,12 @@ print(type(age))
 print(type(cgpa))
 print(type(isStudent))
 
-#Input
-name = input("Enter your name: ")
-print("Hello", name)
-
 #Concatenation
 first_name = "Abdul"
 last_name = "Latif"
 full_name = first_name + " " + last_name
 print("Full name:", full_name)
+
+#Input
+name = input("Enter your name: ")
+print("Hello", name)
