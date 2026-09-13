@@ -22,3 +22,19 @@ print("Result of a - b:", a - b)
 print("Result of a * b:", a * b)
 print("Result of a % b:", a % b)
 print("Result of a ** b:", a ** b)
+
+# Taking both input and oprtation from user
+operation = input("Enter operation (+, -, *, %, **): ")
+if operation == '+':
+    print("Result of a + b:", a + b)
+elif operation == '-':
+    print("Result of a - b:", a - b)
+elif operation == '*':
+    print("Result of a * b:", a * b)
+elif operation == '%':
+    print("Result of a % b:", a % b)
+elif operation == '**':
+    print("Result of a ** b:", a ** b)
+else:
+    print("Invalid operation!")
+
