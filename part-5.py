@@ -31,7 +31,7 @@ marks.clear()
 print(marks, len(marks))
 
 
-# Tupple
+# Tuple
 
 grades = (90, 80, 70, 60, 50, 'A', 'B', 'C', 84.5, 75.0)
 print(grades, type(grades), len(grades))
