@@ -1,5 +1,5 @@
 """
-Practice Exercise:
+Practice Exercise-1:
 - Add a person with first name as Tony and last name as Stark
 - Tony's age is 53
 - Tony's height is 1.85m
